@@ -1,0 +1,78 @@
+body{
+  background-color:#8a2b2b;
+  color:white;
+}
+
+
+a{
+	color: white;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+a:hover{
+	color: #fffb00;
+}
+
+div{
+	margin-right: : 30px;
+	background: black;
+}
+
+.boton{
+	color: black;
+}
+
+@font-face{
+	font-family: buckerley;
+	src:url(../../fuentes/buckerley/buckerley.ttf) format('truetype');
+}
+
+.buckerley{
+	font-family: buckerley;
+	font-size: 40px;
+	color: yellow;
+}
+
+@font-face{
+	font-family: atlantico;
+	src:url(../../fuentes/atlantico/atlantico.otf) format('opentype');
+}
+
+.atlantico{
+	font-family: atlantico;
+	font-size: 40px;
+	color: yellow;
+}
+
+@font-face{
+	font-family: highman;
+	src:url(../../fuentes/atlantico/highman.ttf) format('truetype');
+}
+
+.highman{
+	font-family: highman;
+	font-size: 40px;
+	color: yellow;
+}
+
+@font-face{
+	font-family: hugolers;
+	src:url(../../fuentes/hugolers/hugolers.ttf) format('truetype');
+}
+
+.hugolers{
+	font-family: hugolers;
+	font-size: 40px;
+	color: yellow;
+}
+
+@font-face{
+	font-family: doctorwho;
+	src:url(../../fuentes/doctorwho/doctorwho.ttf) format('truetype');
+}
+
+.doctorwho{
+	font-family: doctorwho;
+	font-size: 40px;
+	color: yellow;
+}

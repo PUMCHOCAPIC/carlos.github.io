@@ -1,0 +1,77 @@
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td{
+	border: 2px solid black;
+	
+}
+
+
+@font-face{
+	font-family: buckerley;
+	src:url(../../fuentes/buckerley/buckerley.ttf) format('truetype');
+}
+
+.buckerley{
+	font-family: buckerley;
+	color: green;
+	background-color: lightblue; 
+}
+
+@font-face{
+	font-family: atlantico;
+	src:url(../../fuentes/atlantico/atlantico.otf) format('opentype');
+}
+
+.atlantico{
+	font-family: atlantico;
+	color: grey;
+	background-color: brown;
+	font-size: 25px;
+}
+
+@font-face{
+	font-family: highman;
+	src:url(../../fuentes/atlantico/highman.ttf) format('truetype');
+}
+
+.highman{
+	font-family: highman;
+	color: blue;
+	background-color: grey; 
+}
+
+@font-face{
+	font-family: hugolers;
+	src:url(../../fuentes/hugolers/hugolers.ttf) format('truetype');
+}
+
+.hugolers{
+	font-family: hugolers;
+	color: black;
+	background-color: yellow;
+}
+
+@font-face{
+	font-family: doctorwho;
+	src:url(../../fuentes/doctorwho/doctorwho.ttf) format('truetype');
+}
+
+.doctorwho{
+	font-family: doctorwho;
+	color: black;
+	background-color: purple;
+	font-size: 20px; 
+}
+
+@font-face{
+	font-family: philosopher;
+	src:url(../../fuentes/philosopher/philosopher.ttf) format('truetype');
+}
+
+.philosopher{
+	font-family: philosopher;
+	color: red;
+	background-color: orange; 

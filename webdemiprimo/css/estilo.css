@@ -1,0 +1,65 @@
+html{
+	background: darkblue;
+}
+
+#plans{
+	float: right;
+	padding-left: 950px;
+}
+
+#main{
+
+	background: white;
+}
+
+.ima{
+	float: left;
+}
+
+nav ul li{
+	display: inline-block;
+	padding-right: 30px;
+}
+
+header{
+	padding-bottom: 90px;
+	margin-bottom: -25px;
+	background: lightblue;
+}
+
+a{
+	cursor: default;
+	text-decoration: none;	
+}
+
+nav{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background: url(../img/papel.png);
+}
+
+#content{
+	width: 1550px;
+	float: right;
+	border-left: solid darkblue 3px;
+	padding-right: 20px;
+	padding-left: 60px;
+	padding-bottom: 288px;
+}
+	
+
+footer{
+	margin-top: -16px;
+	background: lightblue;
+}
+
+footer aside{
+	display: inline-block;
+	padding-left: 40px;
+	padding-right: 100px;
+	margin-right: 140px;
+}
+
+ul li{
+	list-style: none;
+}
